@@ -1,1 +1,1 @@
-# portfolio
+# Portfolio com detalhes das minhas habilidades e projetos.
